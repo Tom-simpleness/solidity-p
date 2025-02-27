@@ -4,3 +4,4 @@
 #Grant and revoke role -- AccessControl.sol
 #One shot bank account -- Bank.sol
 #ERC20 simple -- Erc20.sol
+#Multi signature wallet -- MultiSigWallet.sol
